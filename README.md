@@ -1,16 +1,28 @@
-## Hi there 👋
+# Blacktop Police Chase - Play Free Online
 
-<!--
-**blacktop-police-chase/Blacktop-Police-Chase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Play **Blacktop Police Chase** unblocked in your browser. No downloads, no installs — just instant high-speed action.
 
-Here are some ideas to get you started:
+## Play Now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Play Blacktop Police Chase](https://blacktop-police-chase.github.io/Blacktop-Police-Chase/)**
+
+## About
+
+Blacktop Police Chase is an intense high-speed pursuit game where you race through traffic on black asphalt highways while outrunning relentless police cruisers. Dodge roadblocks, activate nitro boosts, and upgrade your ride to survive increasingly difficult stages.
+
+## Controls
+
+- **Arrow Keys / WASD** — Steer and accelerate
+- **Shift / Space** — Activate nitro boost
+
+## Features
+
+- High-speed police pursuit gameplay
+- Multiple vehicles to unlock — supercars, muscle cars, armored vehicles
+- Upgrade speed, handling, and armor between stages
+- Power-ups and bonuses scattered on the road
+- Works on desktop and mobile browsers
+
+## More Games
+
+Check out more free browser games at [Gameriz](https://gameriz.com)
